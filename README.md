@@ -14,4 +14,4 @@ Jogo com o nome original de Simon, conhecido no Brasil com o nome de Genius.
 
 ### Screenshot
 
-![](https://github.com/titenq/page/blob/master/simon.jpg?raw=true)
+![](https://github.com/titenq/simon/blob/master/simon.jpg?raw=true)
