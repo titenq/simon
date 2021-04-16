@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css2?family=Ubuntu:wght@100;200;300;400;500;600;700&display=swap);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  background-color: #37474f;
+  width: 100%;
+  height: 100%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.simon {
+  width: 280px;
+  height: 280px;
+  background-color: #000;
+  border-radius: 50%;
+}
+
+.pad {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  opacity: 0.5;
+}
+
+.green {
+  background-color: #76ff03;
+  border-radius: 320px 20px 20px;
+  top: 15px;
+  left: 15px;
+}
+
+.red {
+  background-color: #d50000;
+  border-radius: 20px 320px 20px 20px;
+  top: -105px;
+  left: 145px;
+}
+
+.blue {
+  background-color: #2196f3;
+  border-radius: 20px 20px 320px 20px;
+  top: -95px;
+  left: 145px;
+}
+
+.yellow {
+  background-color: #ffff00;
+  border-radius: 20px 20px 20px 320px;
+  top: -215px;
+  left: 15px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 1.2rem;
+  font-weight: bold;
+  top: -395px;
+  left: 90px;
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  border-radius: 50%;
+  border: solid 10px #000;
+  cursor: pointer;
+}
