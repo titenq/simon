@@ -5,12 +5,13 @@
 Jogo com o nome original de Simon, conhecido no Brasil com o nome de Genius.
 
 ### Demo
-[https://titenq.netlify.app/](https://titenq.netlify.app/ "https://titenq.netlify.app/")
+[https://titenq.github.io/simon/](https://titenq.github.io/simon/ "https://titenq.github.io/simon/")
 
 ### Tecnologias
 - HTML
 - CSS
 - Javascript
 
-### Demo
-[https://titenq.github.io/simon/](https://titenq.github.io/simon/ "https://titenq.github.io/simon/")
+### Screenshot
+
+![](https://github.com/titenq/page/blob/master/simon.jpg?raw=true)
